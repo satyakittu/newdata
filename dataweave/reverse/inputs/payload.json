@@ -1,0 +1,36 @@
+[
+  {
+    "name": "size",
+    "options": [
+      {
+        "value": 12345,
+        "label": "small"
+      },
+      {
+        "value": 23456,
+        "label": "medium"
+      },
+      {
+        "value": 34567,
+        "label": "large"
+      }
+    ]
+  },
+  {
+    "name": "fabric",
+    "options": [
+      {
+        "value": 45678,
+        "label": "cotton"
+      },
+      {
+        "value": 56789,
+        "label": "silk"
+      },
+      {
+        "value": 67980,
+        "label": "polyester"
+      }
+    ]
+  }
+]
