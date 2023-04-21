@@ -1,0 +1,36 @@
+[
+  {
+    "bea_order": [
+      
+    ]
+  },
+  {
+    "bea_order": [
+      {
+        "PO_Receipt_Date__c": "2021-08-13",
+        "Id": "a3I1T000003E6SQUA0"
+      },
+      {
+        "PO_Receipt_Date__c": null,
+        "Id": "a3Iq0000000OhnREAS"
+      },
+      {
+        "PO_Receipt_Date__c": null,
+        "Id": "a3Iq0000000OhnWEAS"
+      }
+    ]
+  },
+  {
+    "bea_order": [
+      {
+        "PO_Receipt_Date__c": "2022-05-06",
+        "Id": "a3I1T000003E6SOUA0"
+      }
+    ]
+  },
+  {
+    "bea_order": [
+      
+    ]
+  }
+]
