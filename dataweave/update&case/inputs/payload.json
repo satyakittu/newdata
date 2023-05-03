@@ -1,0 +1,138 @@
+{
+  "order": {
+    "externalOrderId": "Ext-18@",
+    "lineItems": {
+      "lineItem": [
+        {
+          "orderDetailId": 1111
+        },
+        {
+          "orderDetailId": 2222
+        },
+        {
+          "orderDetailId": 3333
+        },
+        {
+          "orderDetailId": 4444
+        },
+        {
+          "orderDetailId": 5555
+        }
+      ]
+    },
+    "shipments": {
+      "shipment": [
+        {
+          "routeDestination": 31,
+          "shipmentId": "9000",
+          "shipmentLineItems": {
+            "shipmentLineItem": [
+              {
+                "orderDetailId": 1111,
+                "quantityShipped": 2,
+                "SKU": "74125"
+              },
+              {
+                "orderDetailId": 2222,
+                "quantityShipped": 2,
+                "SKU": "74125"
+              }
+            ]
+          },
+          "shipmentType": "Outbound",
+          "shippingDestination": 31
+        },
+        {
+          "routeDestination": 31,
+          "shipmentId": "9001",
+          "shipmentLineItems": {
+            "shipmentLineItem": [
+              {
+                "orderDetailId": 3333,
+                "quantityShipped": 2,
+                "SKU": "74125"
+              },
+              {
+                "orderDetailId": 4444,
+                "quantityShipped": 2,
+                "SKU": "74125"
+              },
+              {
+                "orderDetailId": 5555,
+                "quantityShipped": 2,
+                "SKU": "74125"
+              }
+            ]
+          },
+          "shipmentType": "Outbound",
+          "shippingDestination": 31
+        },
+        {
+          "routeDestination": 31,
+          "shipmentId": "1000",
+          "shipmentLineItems": {
+            "shipmentLineItem": [
+              {
+                "orderDetailId": 1111,
+                "quantityShipped": 2,
+                "SKU": "74125"
+              }
+            ]
+          },
+          "shipmentType": "Consolidation",
+          "shippingDestination": 31
+        },
+        {
+          "routeDestination": 31,
+          "shipmentId": "1001",
+          "shipmentLineItems": {
+            "shipmentLineItem": [
+              {
+                "orderDetailId": 2222,
+                "quantityShipped": 2,
+                "SKU": "74125"
+              }
+            ]
+          },
+          "shipmentType": "Consolidation",
+          "shippingDestination": 31
+        },
+        {
+          "routeDestination": 31,
+          "shipmentId": "1002",
+          "shipmentLineItems": {
+            "shipmentLineItem": [
+              {
+                "orderDetailId": 3333,
+                "quantityShipped": 2,
+                "SKU": "74125"
+              },
+              {
+                "orderDetailId": 4444,
+                "quantityShipped": 2,
+                "SKU": "74125"
+              }
+            ]
+          },
+          "shipmentType": "Consolidation",
+          "shippingDestination": 31
+        },
+        {
+          "routeDestination": 31,
+          "shipmentId": "1003",
+          "shipmentLineItems": {
+            "shipmentLineItem": [
+              {
+                "orderDetailId": 5555,
+                "quantityShipped": 2,
+                "SKU": "74125"
+              }
+            ]
+          },
+          "shipmentType": "Consolidation",
+          "shippingDestination": 31
+        }
+      ]
+    }
+  }
+}
