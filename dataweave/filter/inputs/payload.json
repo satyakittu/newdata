@@ -1,0 +1,38 @@
+{
+  "objectCode": "Sampleobj",
+  "masterObjectValues": [
+    {
+      "systemCode": "MASTER",
+      "systemObjectValues": [
+        {
+          "codeId": "001",
+          "code": "CD1",
+          "crossRef": [
+            {
+              "systemCode": "SYS1",
+              "xrefValue": "DR1"
+            },
+            {
+              "systemCode": "SYS2",
+              "xrefValue": "DR2"
+            }
+          ]
+        },
+        {
+          "codeId": "002",
+          "code": "CD2",
+          "crossRef": [
+            {
+              "systemCode": "SYS1",
+              "xrefValue": "MR"
+            },
+            {
+              "systemCode": "SYS2",
+              "xrefValue": "Mister"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
