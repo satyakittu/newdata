@@ -1,0 +1,20 @@
+[
+  {
+    "firstName": "Avery",
+    "lastName": "Chance",
+    "age": 51,
+    "occupation": "Physicist"
+  },
+  {
+    "firstName": "Bob",
+    "lastName": "Adams",
+    "age": 26,
+    "occupation": "MP"
+  },
+  {
+    "firstName": "Ryan",
+    "lastName": "Grad",
+    "age": 46,
+    "occupation": "Chem"
+  }
+]
