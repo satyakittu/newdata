@@ -1,0 +1,50 @@
+[
+  {
+    "id": 709,
+    "startTime": "08:00:00",
+    "endTime": "16:30:00",
+    "Sunday": 0,
+    "Monday": null,
+    "Tuesday": null,
+    "Wednesday": null,
+    "Thursday": null,
+    "Friday": null,
+    "Saturday": null
+  },
+  {
+    "id": 709,
+    "startTime": "08:00:00",
+    "endTime": "16:30:00",
+    "Sunday": null,
+    "Monday": 1,
+    "Tuesday": null,
+    "Wednesday": null,
+    "Thursday": null,
+    "Friday": null,
+    "Saturday": null
+  },
+  {
+    "id": 3638,
+    "startTime": "08:00:00",
+    "endTime": "16:30:00",
+    "Sunday": 0,
+    "Monday": null,
+    "Tuesday": null,
+    "Wednesday": null,
+    "Thursday": null,
+    "Friday": null,
+    "Saturday": null
+  },
+  {
+    "id": 3638,
+    "startTime": "08:00:00",
+    "endTime": "16:30:00",
+    "Sunday": null,
+    "Monday": null,
+    "Tuesday": 1,
+    "Wednesday": null,
+    "Thursday": null,
+    "Friday": null,
+    "Saturday": null
+  }
+]
