@@ -1,0 +1,32 @@
+[ 
+        { 
+            "time": 3, 
+            "employee": "abc", 
+            "department": "hr" 
+        }, 
+        { 
+            "time": 5, 
+            "employee": "abcd", 
+            "department": "developer" 
+        }, 
+        { 
+            "time": 6, 
+            "employee": "abcde", 
+            "department": "hr" 
+        }, 
+        { 
+            "time": 7, 
+            "employee": "xyz", 
+            "department": "hr" 
+        }, 
+        { 
+            "time": 8, 
+            "employee": "xyza", 
+            "department": "developer" 
+        }, 
+        { 
+            "time": 8, 
+            "employee": "xyzab", 
+            "department": "developer" 
+        } 
+    ]
