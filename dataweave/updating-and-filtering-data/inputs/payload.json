@@ -1,0 +1,74 @@
+{
+  "_v": "20.10",
+  "_type": "search_result",
+  "count": 10,
+  "query": "shirt",
+  "refinements": [
+    {
+      "_type": "search",
+      "attribute_id": "division",
+      "label": "Department",
+      "values": [
+        {
+          "_type": "search_value",
+          "hit_count": 182,
+          "label": "Men",
+          "value": "Men"
+        },
+        {
+          "_type": "search_value",
+          "hit_count": 129,
+          "label": "Women",
+          "value": "Women"
+        }
+      ]
+    },
+    {
+      "_type": "search",
+      "attribute_id": "sizes",
+      "label": "Size",
+      "values": [
+        {
+          "_type": "search_value",
+          "hit_count": 76,
+          "label": "XXS",
+          "value": "XXS"
+        },
+        {
+          "_type": "search_value",
+          "hit_count": 210,
+          "label": "XS",
+          "value": "XS"
+        }
+      ]
+    },
+    {
+      "_type": "search",
+      "attribute_id": "SubClass",
+      "label": "Size & Gender",
+      "values": [
+        
+      ]
+    },
+    {
+      "_type": "search",
+      "attribute_id": "availableStores",
+      "label": "Available Near You",
+      "values": [
+        {
+          "_type": "search_value",
+          "hit_count": 40,
+          "label": "820",
+          "value": "820"
+        },
+        {
+          "_type": "search_value",
+          "hit_count": 41,
+          "label": "8035",
+          "value": "8035"
+        }
+      ]
+    }
+  ],
+  "total": 311
+}
