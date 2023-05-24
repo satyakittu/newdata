@@ -1,0 +1,35 @@
+[
+    {
+        "IDOC1_DOCNUM": "4701",
+        "IDOC1_SNDPRN": "1",
+        "IDOC1_BSART": "FALSE",
+        "IDOC2_DOCNUM": "4702",
+        "IDOC2_SNDPRN": "2",
+        "IDOC2_BSART": "",
+        "IDOC3_DOCNUM": "4703",
+        "IDOC3_SNDPRN": "3",
+        "IDOC3_BSART": "TRUE"
+    },
+    {
+        "IDOC4_DOCNUM": "4704",
+        "IDOC4_SNDPRN": null,
+        "IDOC4_BSART": "FALSE",
+        "IDOC5_DOCNUM": "4705",
+        "IDOC5_SNDPRN": "5",
+        "IDOC5_BSART": "TRUE",
+        "IDOC6_DOCNUM": "4706",
+        "IDOC6_SNDPRN": "6",
+        "IDOC6_BSART": "TRUE"
+    },
+    {
+        "IDOC7_DOCNUM": "4707",
+        "IDOC7_SNDPRN": "7",
+        "IDOC7_BSART": "FALSE",
+        "IDOC8_DOCNUM": "",
+        "IDOC8_SNDPRN": "",
+        "IDOC8_BSART": "TRUE",
+        "IDOC9_DOCNUM": "4709",
+        "IDOC9_SNDPRN": "9",
+        "IDOC9_BSART": "TRUE"
+    }
+]
