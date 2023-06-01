@@ -1,0 +1,12 @@
+[
+  {
+    "reference_id": "A1",
+    "data": "{B=8257, C=2022-11-01, D=ABC, E=Processing, F=2022, G=4100, H=APL, I=NULL, J=NULL, K=NULL}",
+    "dataint": 20221103
+  },
+  {
+    "reference_id": "B1",
+    "data": "{B=Fees, C=GBP, D=7695.96, E=NULL, F=NULL, G=NULL, H=NULL, I=NULL, J=NULL, K=NULL}",
+    "dataint": 20221103
+  }
+]
