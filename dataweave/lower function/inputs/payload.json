@@ -1,0 +1,32 @@
+{
+  "test": 
+  [
+    {
+      "acct_id": "9395dtYAC",
+      "alt_bill_day": 1,
+      "acct_currency": "USD",
+      "billing_group": 
+      [
+        {
+          "payment_option": "ONLINE",
+          "client_payment_term_id": "TO-30"
+        }
+      ],
+      "orderitems": 
+    [
+        {
+          "client_sku": "TEST1",
+          "units": 1
+        },
+        {
+          "client_sku": "TEST2",
+          "units": 1
+        },
+        {
+          "client_sku": "TEST3",
+          "units": 1
+        }
+      ]
+    }
+  ]
+}
