@@ -1,0 +1,22 @@
+[
+  {
+    "user_id": "27360",
+    "email": "kbolton@rw.com",
+    "creation_date": "2023-05-04 15:43:11"
+  },
+  {
+    "not_started": 0,
+    "in_progress": 0,
+    "completed": 0
+  },
+  {
+    "user_id": "27359",
+    "email": "rafael.tavares@de.com",
+    "creation_date": "2023-05-04 13:18:43"
+  },
+  {
+    "not_started": 0,
+    "in_progress": 1,
+    "completed": 0
+  }
+]
