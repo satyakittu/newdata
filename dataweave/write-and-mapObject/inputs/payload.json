@@ -1,0 +1,17 @@
+{
+  "D1": {
+    "RECORD TYPE": "1",
+    "SEQUENCE NUMBER": 1,
+    "CUSTOMER LINK": "00000001"
+  },
+  "H1": [
+    {
+      "INTERCHANGE DATE": "20230630",
+      "INTERCHANGE TIME": "15:00:00"
+    },
+    {
+      "INTERCHANGE DATE": "20230631",
+      "INTERCHANGE TIME": "16:00:00"
+    }
+  ]
+}
