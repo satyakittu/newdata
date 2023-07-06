@@ -1,0 +1,5 @@
+<greeting>
+    <ex1></ex1>
+    <ex2>hello</ex2>
+    <ex3 a='greeting'>hello</ex3>
+</greeting>
