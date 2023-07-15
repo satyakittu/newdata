@@ -1,0 +1,39 @@
+{
+    "correlationId": "3f656800-2281-11ee-9697-00155dbbb29b",
+    "response": 
+    {
+        "aResponse": 
+        {
+            "message": "Error creating A ",
+            "statusCode": "500",
+            "correlationId": "3f656800-2281-11ee-9697-00155dbbb29b",
+            "errors": 
+            [
+                {
+                    "duplicateResult": null,
+                    "message": "unable to obtain exclusive access to this record or 1 records: ",
+                    "fields": []
+                }
+            ]
+        },
+        "bResponse": 
+        {
+            "recordID": "1234",
+            "transactionID": "3f656800-2281-11ee-9697-00155dbbb29b",
+            "code": null
+        },
+        "cResponse": 
+        {
+            "statusCode": 500,
+            "type": "INTERNAL_SERVER_ERROR",
+            "detail": "HTTP POST on resource 'http://cresponse' failed: internal server error (500)."
+        },
+        "dResponse": 
+        {
+            "message": "Success",
+            "statusCode": "201",
+            "correlationId": "3f656800-2281-11ee-9697-00155dbbb29b",
+            "errors": []
+        }
+    }
+}
