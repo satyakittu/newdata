@@ -1,0 +1,22 @@
+[
+  {
+    "P-HINBAN": {
+      "key": "P-HINBAN",
+      "value": "SH-AAA"
+    },
+    "V-HINBAN": {
+      "key": "V-HINBAN",
+      "value": "SH-AAA-01"
+    },
+    "values": [
+      {
+        "key": "9001",
+        "value": "LCD"
+      },
+      {
+        "key": "9002",
+        "value": "550m"
+      }
+    ]
+  }
+]
